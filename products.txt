@@ -1,0 +1,82 @@
+Honda XR125L
+
+res de preview
+350 x 300
+
+res de description
+530 x 490
+
+ <div class="col-lg-12">
+                        <div class="product-item-title">
+                            <h2>Produtos Relacionados</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="carvally-single-products-box">
+                            <!-- products thumb -->
+                            <div class="carvally-prosucts-thumb2">
+                                <img src="assets/images/resource/product-1.jpg" alt="">
+                                <!-- product sale -->
+                                <div class="product-sale">
+                                    <span> SALE </span>
+                                </div>
+                            </div>
+                            <!-- products content -->
+                            <div class="product-content">
+                                <!-- product list -->
+                                <div class="product-title">
+                                    <h2> Modern Car Engine Motor P-6Hrs are Available </h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="carvally-single-products-box">
+                            <!-- products thumb -->
+                            <div class="carvally-prosucts-thumb2">
+                                <img src="assets/images/resource/product-2.jpg" alt="">
+                                <!-- product sale -->
+                                <div class="product-sale">
+                                    <span> SALE </span>
+                                </div>
+                            </div>
+                            <!-- products content -->
+                            <div class="product-content">
+                                <!-- product list -->
+                                <div class="product-title">
+                                    <h2> Luxury Car Red Seat Belt Pro Collections </h2>
+                                </div>
+        
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="carvally-single-products-box">
+                            <!-- products thumb -->
+                            <div class="carvally-prosucts-thumb2">
+                                <img src="assets/images/resource/product-3.jpg" alt="">
+                            </div>
+                            <!-- products content -->
+                            <div class="product-content">
+                                <!-- product list -->
+                                <div class="product-title">
+                                    <h2> Luxury Car Red Seat Belt Pro Collections </h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="carvally-single-products-box">
+                            <!-- products thumb -->
+                            <div class="carvally-prosucts-thumb2">
+                                <img src="assets/images/resource/product-4.jpg" alt="">
+                            </div>
+                            <!-- products content -->
+                            <div class="product-content">
+                                <!-- product list -->
+                                <div class="product-title">
+                                    <h2> Oil Pouring Filtaring and 102-B Big Size </h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
